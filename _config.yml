@@ -1,0 +1,28 @@
+name: echternacht
+favicon: null
+layout_spectrum: 0.7661816307809204
+typography_spectrum: 0.3681846992112696
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.48396152327768505
+  lightness: 0.679300494492054
+  saturation: 0.7457491420209408
+  rhythmicContrast: 0.9295198891777545
+purpose: []
