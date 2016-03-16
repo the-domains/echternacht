@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[echternacht]]></title>
         <description><![CDATA[echternacht]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/echternacht/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 01:45:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 01:48:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/echternacht/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1996f90-62ce-4c60-ae89-c40eba4f6d4d.jpg">]]></description>
-            <link>undefinedf2a63051-9e2f-4349-a8cf-f364a911757b/index.html</link>
+            <link>https://thegrid.ai/echternacht/f2a63051-9e2f-4349-a8cf-f364a911757b/index.html</link>
             <guid isPermaLink="false">f2a63051-9e2f-4349-a8cf-f364a911757b</guid>
-            <pubDate>Wed, 16 Mar 2016 01:45:02 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 01:48:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
